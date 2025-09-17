@@ -1,4 +1,4 @@
-# Customer Segmentation Dashboard – Marketing Campaign 📊
+# Marketing Campaign Performance Tracker 📊
 
 This project is a **Power BI dashboard** built on a marketing dataset.  
 It analyzes **customer demographics, income, spending behavior, and campaign effectiveness** to provide insights for targeted marketing strategies.  
@@ -6,7 +6,7 @@ It analyzes **customer demographics, income, spending behavior, and campaign eff
 ---
 
 ## 🚀 Project Overview
-The goal of this project is to perform **customer segmentation** and uncover spending patterns using demographic and transactional data.  
+The goal of this project is to perform **analyze campaign performance metrics** and uncover spending patterns using demographic and transactional data.  
 With these insights, marketing teams can identify high-value customers, optimize campaign efforts, and make data-driven decisions.  
 
 ---
@@ -25,29 +25,28 @@ Source: Provided as `marketing_data.csv` (for demo/learning purposes).
 ## 🔑 Key Features in the Dashboard
 - **KPI Cards**
   - Total Customers  
-  - Average Age  
-  - Average Income  
-  - Average Total Spend  
+  - Total Purchases  
+  - Total Income  
+  - Total Spend  
 
 - **Visuals**
-  - 🥧 Donut Chart → Customer Purchases by Category  
-  - 📊 Bar Chart → Product Category Spending by Education  
-  - 📈 Line Chart → Income vs. Total Spend by Year & Quarter  
-  - 📅 Line Chart → Income vs. Total Spend by Day  
-  - 🎯 Campaign Analysis → Acceptance of marketing campaigns  
-  - 👥 Customer Segmentation → Age groups, gender distribution  
+  - 🥧 Donut Chart → Breakdown of Purchases by Channel  
+  - 📊 Bar Chart → Sum of Complain by Year and Quarter 
+  - 📅 Line and column Chart → Quarterly Trends in Income and Expenditure
+  - 📅 Line and column Chart → Product Purchase Trends Across Education Levels 
+  - 🎯 Pie Chart → Distribution of Accepted Campaigns
+  - 📅 Scatter chart → Day-wise Analysis of Income and Total Expenditure  
 
 - **Filters (Slicers)**
   - Age Group  
-  - Gender  
   - Education Level  
-  - Income Range  
-  - Campaign Acceptance  
+  - MArital Status Level  
 
 ---
 
 ## 🚀 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot/marketing_campain_dashboard.jpg)
+![Dashboard Preview](dashboard_preview.png)
+
 
 ---
 
@@ -64,13 +63,6 @@ Source: Provided as `marketing_data.csv` (for demo/learning purposes).
 - **Power Query (M)** → Data cleaning & transformation  
 - **DAX** → Calculated columns & measures  
 - **GitHub** → Project showcase  
-
----
-
-## 📌 How to Use
-1. Clone or download this repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Interact with the dashboard using filters and visuals.  
 
 ---
 
