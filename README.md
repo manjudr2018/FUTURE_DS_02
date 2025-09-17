@@ -40,7 +40,7 @@ Source: Provided as `marketing_data.csv` (for demo/learning purposes).
 - **Filters (Slicers)**
   - Age Group  
   - Education Level  
-  - MArital Status Level  
+  - Marital Status Level  
 
 ---
 
