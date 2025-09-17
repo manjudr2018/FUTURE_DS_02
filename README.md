@@ -47,7 +47,7 @@ Source: Provided as `marketing_data.csv` (for demo/learning purposes).
 ---
 
 ## 🚀 Dashboard Preview
-![Dashboard Screenshot](Dashboard%20Screenshot/marketing_campain_dashboard.png) 
+![Dashboard Screenshot](Dashboard%20Screenshot/marketing_campain_dashboard.jpg) 
 
 ---
 
